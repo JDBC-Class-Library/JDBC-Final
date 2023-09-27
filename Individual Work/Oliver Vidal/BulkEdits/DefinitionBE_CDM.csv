@@ -1,0 +1,14 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1075849176::Physical Name,1073742125::Definition,1075849148::Comments
+1075838979::233,Table_JSONHierarchy_232,Table,Table_JSONHierarchy_232,JSON object containing hierarchy,JSON object containing hierarchy
+1075838979::309,Building,Table,Building,The building is a structure with a roof and walls where individuals gather for the purpose of education,The building is a structure with a roof and walls where individuals gather for the purpose of education
+1075838979::312,Class,Table,Class,The class contains is a body of students meeting regularly to study the same subject,The class contains is a body of students meeting regularly to study the same subject
+1075838979::315,ClassDayTime,Table,ClassDayTime,The day and time for a certain class to take place in,The day and time for a certain class to take place in
+1075838979::318,Course,Table,Course,"A course is a unit of teaching that typically lasts one academic term, is led by one or more instructors (teachers or professors), and has a fixed roster of students.","A course is a unit of teaching that typically lasts one academic term, is led by one or more instructors (teachers or professors), and has a fixed roster of students."
+1075838979::321,CourseMode,Table,CourseMode,Contains the connection between the course and the instruction mode of the course,Contains the connection between the course and the instruction mode of the course
+1075838979::327,Department,Table,Department,"A division of a large organization such as a government, university, business, or shop, dealing with a specific subject, commodity, or area of activity:","A division of a large organization such as a government, university, business, or shop, dealing with a specific subject, commodity, or area of activity:"
+1075838979::330,DepartmentInstructor,Table,DepartmentInstructor,"The teacher of a certain department ","The teacher of a certain department "
+1075838979::333,InstructionMode,Table,InstructionMode,The mode represents the style of education in other words the execution of a class,The mode represents the style of education in other words the execution of a class
+1075838979::336,Instructor,Table,Instructor,Someone who teaches a certain subject,Someone who teaches a certain subject
+1075838979::339,InstructorCourseBridge,Table,InstructorCourseBridge,The identification of a certain course which allows for the differentiation between all courses,The identification of a certain course which allows for the differentiation between all courses
+1075838979::342,Room,Table,Room,A location in which students and teachers meet for the purpose of education,A location in which students and teachers meet for the purpose of education
+1075838979::345,UserAuthorization,Table,UserAuthorization,Contains the authorization data of all authorized memebers,Contains the authorization data of all authorized memebers
